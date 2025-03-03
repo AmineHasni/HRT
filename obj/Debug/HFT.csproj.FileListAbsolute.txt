@@ -1,0 +1,13 @@
+C:\Users\hosni\source\repos\HFT\bin\Debug\HFT.exe.config
+C:\Users\hosni\source\repos\HFT\bin\Debug\HFT.exe
+C:\Users\hosni\source\repos\HFT\bin\Debug\HFT.pdb
+C:\Users\hosni\source\repos\HFT\bin\Debug\CSharpAPI.dll
+C:\Users\hosni\source\repos\HFT\bin\Debug\CSharpAPI.pdb
+C:\Users\hosni\source\repos\HFT\obj\Debug\HFT.csproj.AssemblyReference.cache
+C:\Users\hosni\source\repos\HFT\obj\Debug\HFT.Form1.resources
+C:\Users\hosni\source\repos\HFT\obj\Debug\HFT.Properties.Resources.resources
+C:\Users\hosni\source\repos\HFT\obj\Debug\HFT.csproj.GenerateResource.cache
+C:\Users\hosni\source\repos\HFT\obj\Debug\HFT.csproj.CoreCompileInputs.cache
+C:\Users\hosni\source\repos\HFT\obj\Debug\HFT.csproj.Up2Date
+C:\Users\hosni\source\repos\HFT\obj\Debug\HFT.exe
+C:\Users\hosni\source\repos\HFT\obj\Debug\HFT.pdb
